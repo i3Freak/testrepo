@@ -37,7 +37,7 @@ android {
 
 dependencies {
     val appcompat_version = "1.7.0"
-    implementation("com.wireguard.android:tunnel:1.0.20210211")
+    implementation("com.wireguard.android:tunnel:1.0.20230706")
     implementation("com.android.tools:desugar_jdk_libs:2.1.5")
     implementation("com.github.bumptech.glide:glide:4.16.0")
     implementation("com.google.android.material:material:1.9.0")

@@ -165,7 +165,7 @@ public class MainActivity extends AppCompatActivity {
         // --- YOU MUST PROVIDE THE CLIENT'S PRIVATE KEY ---
         // This key is unique to THIS Android client and is NOT from the server image.
         // Generate it (see instructions above) and add its corresponding public key to your server config.
-        String clientPrivateKey = "EAUrzX54BmbJtPOb8Cw7qcwUvnsU6k4M0yCMTmmjUV8=\n"; // <<<<<< IMPORTANT: REPLACE THIS
+        String clientPrivateKey = "8K32hn1g1BNTZhk8gEFrPjYqHbwJjia+Gya9hwGbZGU="; // <<<<<< IMPORTANT: REPLACE THIS
 
         // IP address for this Android client INSIDE the VPN tunnel.
         // It should be in the same network as your server's VPN IP (10.0.0.1/24)
